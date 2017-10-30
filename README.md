@@ -12,7 +12,7 @@
 ```
 
 界面如下：
-
+![pass](https://api.travis-ci.org/ZexinYan/service-computing-homework.svg?branch=master)
 
 ```
 you can use this app to create or remove meetings.Also you must register a user to have the rights to use the functions.
