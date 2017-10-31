@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"github.com/LeungChiHo/agenda/entity"
+	"agenda/entity"
 	"github.com/spf13/cobra"
 )
 

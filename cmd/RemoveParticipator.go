@@ -17,7 +17,7 @@ package cmd
 import (
 	"fmt"
 	"log"
-    "github.com/LeungChiHo/agenda/entity"
+    "agenda/entity"
 	"github.com/spf13/cobra"
 )
 
