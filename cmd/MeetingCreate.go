@@ -15,7 +15,6 @@
 package cmd
 
 import (
-	"agenda/entity"
 	"fmt"
 	"log"
 	entity "github.com/LeungChiHo/agenda/tree/master/entity"
